@@ -2,7 +2,7 @@
 
 A small personal website with a mini crossword puzzle. It is built with only HTML and CSS (no JavaScript).
 
-Repo: https://github.khoury.northeastern.edu/honglinwei/CS5610-Project_1
+Repo: https://github.com/grapefruit-leaf/CS5610-Project_1
 
 ## Pages
 
