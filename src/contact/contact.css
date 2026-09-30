@@ -1,0 +1,10 @@
+.contact-list {
+  padding: 0;
+  list-style: none;
+}
+
+.contact-label {
+  display: block;
+  color: var(--color-gray);
+  font-size: var(--font-size-sm);
+}

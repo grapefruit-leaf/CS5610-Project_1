@@ -1,0 +1,17 @@
+.intro p {
+  font-size: var(--font-size-lg);
+}
+
+.project-list {
+  padding: 0;
+  list-style: none;
+}
+
+.project-list li {
+  margin-bottom: var(--space-lg);
+}
+
+.project-list h3,
+.project-list p {
+  margin: 0;
+}

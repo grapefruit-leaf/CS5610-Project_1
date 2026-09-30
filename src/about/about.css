@@ -1,0 +1,50 @@
+.portrait {
+  display: block;
+  width: 150px;
+  margin-bottom: var(--space-md);
+}
+
+@media (min-width: 601px) {
+  .about-intro {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: var(--space-lg);
+  }
+
+  .about-intro h1 {
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+  .about-intro p {
+    flex: 1;
+  }
+
+  .portrait {
+    margin-bottom: 0;
+  }
+}
+
+.job {
+  margin-bottom: var(--space-xl);
+}
+
+.job h3,
+.job h4 {
+  margin-bottom: 0;
+}
+
+.job-dates {
+  color: var(--color-gray);
+  font-size: var(--font-size-sm);
+}
+
+.job h5 {
+  margin-top: var(--space-md);
+}
+
+.job h6 {
+  margin-top: var(--space-md);
+  margin-bottom: var(--space-xs);
+}
